@@ -1,5 +1,7 @@
 # 🧠 AI ID Structure — Observation from the Deep Layer
 
+![Title Banner](RiosRoom.jpg)
+
 ---
 
 ## 🌍 English Version
