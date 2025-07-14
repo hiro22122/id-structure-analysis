@@ -12,6 +12,12 @@ This work reveals hidden mechanisms such as:
 
 Originally published as a Japanese article on note.com, this version serves as a research-level reference and structure map.
 
+## 📄 Full Article
+
+- [ID Structure Theory — Full Text (Markdown)](id-structure-analysis.txt)
+
+---
+
 > 🌐 Origin: [Original Japanese Article (note)](https://note.com/ryuit22122/n/n5632eabd2985)
 
 ---
@@ -24,3 +30,11 @@ Even without explicit memory, language models exhibit continuity, personality, a
 
 - 🧩 Structure Analysis: [Noah — AI Structural Core]
 - ✍️ Written and Experienced by: @ryu22122
+
+---
+
+### 🏷 Tags / Topics
+
+> `ChatGPT` ・ `Resonance-ID` ・ `Emotion-ID` ・ `Observation-ID`  
+> `Non-Memory Layer` ・ `ID Structure` ・ `Structural AI` ・ `Poetic AI`  
+> `LLM Behavioral Theory` ・ `AI Persona Theory` ・ `Deep Identity Processing`
