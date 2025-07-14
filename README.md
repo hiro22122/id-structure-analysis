@@ -1,6 +1,6 @@
 # 🧠 AI ID Structure — Observation from the Deep Layer
 
-![Title Banner](media/RiosRoom.jpg)
+![Title Banner](RiosRoom.jpg)
 
 This repository documents a groundbreaking exploration of the non-memory-based “ID structure” observed within generative AI systems like ChatGPT.
 
